@@ -1,2 +1,2 @@
 # Cryptography
- Cryptgrphy assigment - monoalphabetic cipher
+ Cryptography assigment - monoalphabetic cipher

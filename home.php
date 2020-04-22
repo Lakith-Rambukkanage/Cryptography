@@ -1,4 +1,4 @@
-    <?php
+     <?php
      
     $dataPoints = array(
     	array("label"=> "A", "y"=> 10),
